@@ -1,2 +1,11 @@
 # dotfiles
-My Fedora Linux dotfiles collection
+
+This repository contains my personal dotfiles for configuring various tools and applications on Fedora Linux.
+
+## Installation
+
+To use these dotfiles, follow these steps:
+
+1. Clone the repository to your home directory:
+   ```bash
+   git clone https://github.com/your_username/dotfiles.git ~/.dotfiles
