@@ -15,5 +15,3 @@ Before using these dotfiles, make sure you have the following applications insta
 - [waybar](https://github.com/Alexays/Waybar): A highly customizable Wayland bar for Sway and Wlroots-based compositors.
 
 - [wlogout](https://github.com/ArtsyMacaw/wlogout): A simple Wayland session logout helper.
-
-Make sure to install these applications before using the dotfiles.
