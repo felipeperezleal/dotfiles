@@ -10,7 +10,7 @@ To use these dotfiles, follow these steps:
    ```bash
    git clone https://github.com/felipeperezleal/dotfiles.git ~/.dotfiles
    ```
-2.Change into the dotfiles directory:
+2. Change into the dotfiles directory:
    ```bash
    cd ~/.dotfiles
    ```
