@@ -14,4 +14,6 @@ Before using these dotfiles, make sure you have the following applications insta
 
 - [waybar](https://github.com/Alexays/Waybar): A highly customizable Wayland bar for Sway and Wlroots-based compositors.
 
+- [swaync](https://github.com/ErikReider/SwayNotificationCenter): A simple notification daemon with a GTK gui for notifications and the control center
+
 - [wlogout](https://github.com/ArtsyMacaw/wlogout): A simple Wayland session logout helper.
