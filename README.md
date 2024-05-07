@@ -8,4 +8,4 @@ To use these dotfiles, follow these steps:
 
 1. Clone the repository to your home directory:
    ```bash
-   git clone https://github.com/your_username/dotfiles.git ~/.dotfiles
+   git clone https://github.com/felipeperezleal/dotfiles.git ~/.dotfiles
